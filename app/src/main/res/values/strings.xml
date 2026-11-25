@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ching ching</string>
+    <string name="converter_title">Currency converter</string>
+    <string name="converter_subtitle">Convert currencies with the latest available daily rates.</string>
+    <string name="amount_label">Amount</string>
+    <string name="from_label">From currency</string>
+    <string name="to_label">To currency</string>
+    <string name="swap_currencies">Swap currencies</string>
+    <string name="result_label">Converted amount</string>
+    <string name="result_placeholder">—</string>
+    <string name="converted_amount">%1$s %2$s</string>
+    <string name="unit_rate">1 %1$s = %2$s %3$s</string>
+    <string name="refresh_rates">Refresh rates</string>
+    <string name="loading_rates">Checking exchange rates…</string>
+    <string name="updated_rates">Rates updated %1$s</string>
+    <string name="offline_rates">Could not refresh. Using saved rates from %1$s. Connect to the internet and try again.</string>
+    <string name="stale_rates">Rates may be out of date. Last update: %1$s.</string>
+    <string name="rates_error">Could not load rates. Check your internet connection and tap Refresh rates.</string>
+    <string name="invalid_amount">Enter a positive amount or zero, with up to 15 digits and 8 decimal places. Do not use thousands separators.</string>
+    <string name="unsupported_currency">This currency is unavailable in the current rates.</string>
+    <string name="rates_note">Rates update daily. Estimates exclude bank fees and exchange spreads.</string>
+    <string name="rates_attribution">&lt;a href="https://www.exchangerate-api.com"&gt;Rates By Exchange Rate API&lt;/a&gt;</string>
+</resources>
